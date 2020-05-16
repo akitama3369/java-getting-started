@@ -1,1 +1,1 @@
-web: java -jar target/JMusicBot-0.2.8.jar
+commandnetworkmusic: java -jar target/JMusicBot-0.2.8.jar
